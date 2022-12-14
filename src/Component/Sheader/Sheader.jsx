@@ -11,10 +11,10 @@ const Sheader = () => {
       <header className="first">
         <nav>
           <ul>
-            <li>hello</li>
-            <li>hello</li>
-            <li>hello</li>
-            <li>hello</li>
+            <li>24/7 CUSTOMER SERVICE</li>
+            <li>LIFETIME WARRANTY</li>
+            <li>FREE INTERNATIONAL SHIPPING</li>
+            <li>100% MONEYBACK GUARANTEE</li>
           </ul>
         </nav>
       </header>

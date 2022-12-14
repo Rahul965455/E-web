@@ -13,17 +13,18 @@ align-items: center;
 }
 .first nav ul{
     display: flex;
-    gap: 10rem;
+    gap: 5rem;
 }
 
 .first nav ul li{
     list-style: none;
+    font-size: 11px;
 }
 
 .emoji{
 display: flex;
 justify-content: flex-end;
-padding-right: 2rem;
+padding-right: 4rem;
 margin-top: 10px;
 }
 
